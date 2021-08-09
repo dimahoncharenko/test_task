@@ -1,0 +1,10 @@
+.timer
+{
+    text-align: center;
+    padding: 10em 0em;
+}
+
+.timer__display
+{
+    font-size: 3rem;
+}
